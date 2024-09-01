@@ -1,4 +1,4 @@
-# Snake-game-js
+# Snake-Game-JS
 
 Welcome to the Snake Game, a simple yet engaging browser-based game built using HTML, CSS, and JavaScript. This project offers a responsive design, smooth animations, and an intuitive user interface that makes it enjoyable to play.
 
